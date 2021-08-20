@@ -1,4 +1,1 @@
-
-It is a test repo
-
-## Thanks for watching
+ ## Discrete Structure Practicals
